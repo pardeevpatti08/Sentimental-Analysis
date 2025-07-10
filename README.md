@@ -42,21 +42,21 @@ The objective of this project is to build a real-time facial emotion recognition
 
 
 
-| Library         | Purpose                        |
+| Library            | Purpose                         |
 
-|----------------|---------------------------------|
+|--------------------|---------------------------------|
 
-| TensorFlow / Keras | Deep learning and model training |
+| TensorFlow / Keras | Deep learning and model training|
 
-| NumPy           | Numerical operations            |
+| NumPy              | Numerical operations            |
 
-| Pandas          | Data manipulation               |
+| Pandas             | Data manipulation               |
 
-| OpenCV          | Image processing \& webcam input |
+| OpenCV             | Image processing \& webcam input |
 
-| Matplotlib      | Data visualization              |
+| Matplotlib         | Data visualization              |
 
-| sklearn         | Evaluation metrics              |
+| sklearn            | Evaluation metrics              |
 
 
 
@@ -124,7 +124,9 @@ The model takes in 48x48 grayscale images of human faces and classifies them int
 
 &nbsp;   ```bash
 
-&nbsp;   git clone https://github.com/yourusername/your-repo.git
+&nbsp;   git clone https://github.com/pardeevpatti08/Sentimental-Analysis
+
+.git
 
 &nbsp;   cd your-repo
 
